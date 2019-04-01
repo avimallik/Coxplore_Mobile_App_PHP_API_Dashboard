@@ -2,12 +2,16 @@
 
 Coxplore is a Cox's Bazar Travel Guide Web and Mobile Application. This application is PHP server side scripting language based application which is reponsible to generates API for Coxplore Mobile App. Application is used by Admin to changes the REST data of Coxplore Mobile app. I used Core PHP for build this system.
 
-<b> Technology Used in this System </b><br>
-* PHP <br>
+<b> Front End Used in this System </b><br>
 * JavaScript <br>
 * HTML-5 <br>
 * Bootstrap <br>
 * CSS3 <br>
+
+<b> Back End Used in this System </b><br>
+* PHP <br>
+* MySql <br>
+
 
 <b> Some Screenshoot of this System </b><br>
 
