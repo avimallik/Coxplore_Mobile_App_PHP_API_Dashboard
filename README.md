@@ -27,8 +27,6 @@ Coxplore is a Cox's Bazar Travel Guide Web and Mobile Application. This applicat
 
 ![6](https://user-images.githubusercontent.com/21225215/55315699-af9e7f00-548e-11e9-80f3-515be9b1838f.png)
 
-![7](https://user-images.githubusercontent.com/21225215/55315700-b0371580-548e-11e9-95f3-8a647a4a7be5.png)
-
 ![8](https://user-images.githubusercontent.com/21225215/55315701-b0371580-548e-11e9-9ade-d3a76a2674a5.png)
 
 ![9](https://user-images.githubusercontent.com/21225215/55315702-b0cfac00-548e-11e9-9dfb-35919e8ae14b.png)
